@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Objects_Ethan_Rowland/1.0.0": {
+        "runtime": {
+          "Objects_Ethan_Rowland.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Objects_Ethan_Rowland/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

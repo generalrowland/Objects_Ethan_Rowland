@@ -1,0 +1,14 @@
+C:\Users\EthanRowland\source\repos\Objects_Ethan_Rowland\bin\Debug\net6.0\Objects_Ethan_Rowland.exe
+C:\Users\EthanRowland\source\repos\Objects_Ethan_Rowland\bin\Debug\net6.0\Objects_Ethan_Rowland.deps.json
+C:\Users\EthanRowland\source\repos\Objects_Ethan_Rowland\bin\Debug\net6.0\Objects_Ethan_Rowland.runtimeconfig.json
+C:\Users\EthanRowland\source\repos\Objects_Ethan_Rowland\bin\Debug\net6.0\Objects_Ethan_Rowland.dll
+C:\Users\EthanRowland\source\repos\Objects_Ethan_Rowland\bin\Debug\net6.0\Objects_Ethan_Rowland.pdb
+C:\Users\EthanRowland\source\repos\Objects_Ethan_Rowland\obj\Debug\net6.0\Objects_Ethan_Rowland.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EthanRowland\source\repos\Objects_Ethan_Rowland\obj\Debug\net6.0\Objects_Ethan_Rowland.AssemblyInfoInputs.cache
+C:\Users\EthanRowland\source\repos\Objects_Ethan_Rowland\obj\Debug\net6.0\Objects_Ethan_Rowland.AssemblyInfo.cs
+C:\Users\EthanRowland\source\repos\Objects_Ethan_Rowland\obj\Debug\net6.0\Objects_Ethan_Rowland.csproj.CoreCompileInputs.cache
+C:\Users\EthanRowland\source\repos\Objects_Ethan_Rowland\obj\Debug\net6.0\Objects_Ethan_Rowland.dll
+C:\Users\EthanRowland\source\repos\Objects_Ethan_Rowland\obj\Debug\net6.0\refint\Objects_Ethan_Rowland.dll
+C:\Users\EthanRowland\source\repos\Objects_Ethan_Rowland\obj\Debug\net6.0\Objects_Ethan_Rowland.pdb
+C:\Users\EthanRowland\source\repos\Objects_Ethan_Rowland\obj\Debug\net6.0\Objects_Ethan_Rowland.genruntimeconfig.cache
+C:\Users\EthanRowland\source\repos\Objects_Ethan_Rowland\obj\Debug\net6.0\ref\Objects_Ethan_Rowland.dll
